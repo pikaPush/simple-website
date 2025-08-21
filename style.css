@@ -52,3 +52,11 @@ ul li a:hover {
   background-color: #fff;
   color: #000;
 }
+
+.img {
+  background: url("simple-website-bg-img.jpg") no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
