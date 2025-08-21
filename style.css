@@ -117,3 +117,8 @@ ul li a:hover {
   color: #fff;
   background: none;
 }
+
+.btns button:first-child:hover {
+  background-color: #fff;
+  color: #000;
+}
