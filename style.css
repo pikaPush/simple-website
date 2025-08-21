@@ -48,3 +48,8 @@ ul li a {
   border-radius: 5px;
   transition: 0.3s ease;
 }
+
+ul li a:hover {
+  background-color: #fff;
+  color: #000;
+}
