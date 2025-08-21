@@ -28,3 +28,7 @@ nav .menu .logo a {
   font-size: 35px;
   font-weight: 600;
 }
+
+.menu ul {
+  display: inline-flex;
+}
