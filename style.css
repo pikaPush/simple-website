@@ -8,6 +8,8 @@
 }
 
 nav {
+  position: fixed;
+  padding: 10px 0;
   background-color: #1b1b1b;
   width: 100%;
   padding: 10px 0;
